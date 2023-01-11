@@ -1,0 +1,16 @@
+# patterns
+*.log
+*.zip
+*.log
+
+# files
+.env
+.coverage
+.pylintrc
+
+#dirs
+cabot_env
+.idea
+__pycache__
+htmlcov
+.pytest_cache
